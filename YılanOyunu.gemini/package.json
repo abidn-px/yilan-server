@@ -1,7 +1,6 @@
 {
-  "name": "online-yilan-server",
+  "name": "yilan-oyunu",
   "version": "1.0.0",
-  "description": "Angara Yılan Sunucusu lo",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
